@@ -5,6 +5,6 @@ accounts:
  message: "Welcome to Lúcio's accounts related prod APIs"
  contactDetails:
    name: "Example - Product Owner"
-   email: "productowner@gmail.com"
+   email: "{cipher}e608cc9c127ff0c9dc1719c4a7f93567dc451d4b4f559b449228d9e84d049fc74a372114593cba0631d8647a4da8e634"
  onCallSupport:
   (453) 412-4902
