@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to José Lúcio's cards related production APIs "
+  message: "Welcome to José Lúcio's cards related prod APIs "
   contactDetails:
     name: "José Lúcio - Product Owner"
     email: "jlucioosjunior@gmail.com"
