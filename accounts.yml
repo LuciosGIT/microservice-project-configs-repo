@@ -2,7 +2,7 @@ build:
  version: "3.0"
 
 accounts:
- message: "Welcome to Lúcio's Project accounts related local APIs"
+ message: "Welcome to Lúcio's Project accounts related locals APIs"
  contactDetails:
   name: "José Lúcio - Java Developer"
   email: "jlucioosjunior@gmail.com"
